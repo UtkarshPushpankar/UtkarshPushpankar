@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 - 🔭 Passionate about building responsive, scalable, and user-friendly web applications.
-- 💻 6 months of hands-on experience in **web development**.
+- 💻 8 months of hands-on experience in **web development**.
 - 🚀 Proficient in modern web development stacks, including **Next.js**, **Node.js**, **React**, and the **MERN stack**.
 - 🌱 Currently enhancing my skills in **backend development** and **DevOps**.
 - 🎯 Aspiring to contribute to impactful projects and gain industrial experience through internships.
